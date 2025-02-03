@@ -18,5 +18,5 @@ I create new features based on existing features and prepare the data for modeli
 # Modeling
 I have used three models: logistic regression, random forest, XGboost, and Naive Bayes. The best model is a random forest. 
 Heatmap of m_estimators and max_depth for CV: 
-![CV Heatmap]("C:\Users\Wenxia\Desktop\Python\Airbnb_prediction\data\test_heatmap.png")
+![CV Heatmap](test_heatmap.png)
 
