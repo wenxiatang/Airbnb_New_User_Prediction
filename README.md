@@ -18,5 +18,10 @@ I create new features based on existing features and prepare the data for modeli
 # Modeling
 I have used three models: logistic regression, random forest, XGboost, and Naive Bayes. The best model is a random forest. 
 Heatmap of m_estimators and max_depth for CV: 
-![CV Heatmap](test_heatmap.png)
+![CV Heatmap](heat_map_rf.png)
+Feature Importance for RF model: 
+![Feature Importance](feature_importance_rf.png)
+# References: 
+- https://www.kaggle.com/competitions/airbnb-recruiting-new-user-bookings
+- https://github.com/NamrataThakur/Airbnb-New-User-Prediction?source=post_page-----e26e712fe8d2--------------------------------
 
